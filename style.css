@@ -1,0 +1,70 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #2b2830;
+}
+.card {
+  width: 30em;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #d0e8ff;
+  color: #2b2830;
+  border-bottom: 10px solid #d8cefe;
+  border-radius: 15px;
+}
+.image {
+  width: 170px;
+}
+.main {
+  text-align: center;
+  margin: 90px 0 -120px 0;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  margin: 9rem 0;
+}
+.chat-me {
+  margin: 0 auto;
+  width: 20em;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #d0e8ff;
+  color: #2b2830;
+  border-bottom: 5px solid #d8cefe;
+  border-radius: 10px;
+}
+.chat-me:hover{
+  background-color: #d8cefe;
+  border-bottom: 5px solid #d0e8ff;
+  transition: 0.3s;
+
+}
+.Inst {
+  margin: 0 30px 0 0;
+  width: 20px;
+  height: 20px;
+}
+.github {
+  margin: 0 30px 0 0;
+  width: 20px;
+  height: 20px;
+}
+.tiktok {
+  margin: 0 30px 0 0px;
+  width: 20px;
+  height: 20px;
+}
+.youtube {
+  height: 20px;
+  width: 20px;
+
+}
